@@ -65,3 +65,6 @@ $ terraform apply -var 'action=upgrade'
 * Flannel
 * Weave
 * Cilium
+
+## Documents
+https://blog.inkubate.io/install-and-manage-automatically-a-kubernetes-cluster-on-vmware-vsphere-with-terraform-and-kubespray/
